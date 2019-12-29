@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/travel-agency-poc/static/css/main.417d0813.chunk.css",
+    "main.js": "/travel-agency-poc/static/js/main.f2bcb59c.chunk.js",
+    "main.js.map": "/travel-agency-poc/static/js/main.f2bcb59c.chunk.js.map",
+    "runtime-main.js": "/travel-agency-poc/static/js/runtime-main.d1ea1377.js",
+    "runtime-main.js.map": "/travel-agency-poc/static/js/runtime-main.d1ea1377.js.map",
+    "static/js/2.efca4a5d.chunk.js": "/travel-agency-poc/static/js/2.efca4a5d.chunk.js",
+    "static/js/2.efca4a5d.chunk.js.map": "/travel-agency-poc/static/js/2.efca4a5d.chunk.js.map",
+    "index.html": "/travel-agency-poc/index.html",
+    "precache-manifest.7c99375c04ac086d5431045180412665.js": "/travel-agency-poc/precache-manifest.7c99375c04ac086d5431045180412665.js",
+    "service-worker.js": "/travel-agency-poc/service-worker.js",
+    "static/css/main.417d0813.chunk.css.map": "/travel-agency-poc/static/css/main.417d0813.chunk.css.map",
+    "static/js/2.efca4a5d.chunk.js.LICENSE": "/travel-agency-poc/static/js/2.efca4a5d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1ea1377.js",
+    "static/js/2.efca4a5d.chunk.js",
+    "static/css/main.417d0813.chunk.css",
+    "static/js/main.f2bcb59c.chunk.js"
+  ]
+}
