@@ -1,0 +1,1 @@
+export const SET_SELECTED_INFO = 'SET_SELECTED_INFO'

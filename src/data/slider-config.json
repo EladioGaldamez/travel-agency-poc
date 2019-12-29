@@ -1,0 +1,9 @@
+{
+  "container": ".data-wrapper",
+  "items": 2,
+  "loop": false,
+  "nav": false,
+  "gutter": 8,
+  "prevButton": "#prev-data",
+  "nextButton": "#next-data"
+}

@@ -1,0 +1,13 @@
+@import '~@csstools/normalize.css';
+@import '~tiny-slider/src/tiny-slider.scss';
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,800&display=swap');
+
+@import './variables';
+
+@import './support/mixins';
+@import './support/base';
+
+@import './components/data';
+@import './components/forms';
+@import './components/hero';
+@import './components/navigation';

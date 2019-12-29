@@ -1,0 +1,43 @@
+.navigation-bar {
+  @include display-flexbox(auto);
+  @include justify-content(space-between);
+  @include align-items(center);
+  padding: 8px 24px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1020;
+
+
+  .navigation-brand {
+    font-weight: 800;
+    font-size: 24px;
+    margin-left: 24px;
+    color: #fff;
+  }
+
+  .navigation-menu {
+    margin-left: auto;
+
+    a {
+      margin: 0 24px;
+      font-weight: 600;
+      color: #000;
+    }
+  }
+
+  .navigation-username {
+    a {
+      display: block;
+      margin: 8px 16px;
+
+      img {
+        width: 40px;
+        height: 40px;
+        border-radius: 8px;
+        object-fit: cover;
+      }
+    }
+  }
+}

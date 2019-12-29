@@ -1,0 +1,19 @@
+.search-form {
+  box-shadow: 0 1px 0 0 #b1b1b1;
+  padding-bottom: 8px;
+
+  input {
+    color: #000000;
+    font-size: 18px;
+    padding: 0;
+    margin: 0 24px;
+    outline: none;
+    box-shadow: none;
+    width: calc(100% - 70px);
+    border: none;
+
+    @include placeholder {
+      color: #afafaf;
+    }
+  }
+}
